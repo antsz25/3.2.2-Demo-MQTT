@@ -109,7 +109,10 @@ while True:
         display.show()
 
 ```
-
-![Solucion](https://github.com/JAZMIN2021/EquipoSP/assets/79472215/19399201-da47-4323-a171-0c8aa9b79823)
-
-![](https://github.com/JAZMIN2021/EquipoSP/assets/79472215/6cc09fd5-1832-4e33-bf8a-2968ceb399e0)
+##Pruebas y resultados
+###Conexiones del circuito
+![Conexiones](https://github.com/antsz25/3.2.2-Demo-MQTT/blob/main/MQTTBroker/Pruebas/Conexiones.jpg)
+###Prueba en consola de Thonny
+![Pruebas_De_Consola](https://github.com/antsz25/3.2.2-Demo-MQTT/blob/main/MQTTBroker/Pruebas/PruebaConsola.png)
+###Valores del MQTTBroker
+![Valores](https://github.com/antsz25/3.2.2-Demo-MQTT/blob/main/MQTTBroker/Pruebas/Valores.jpg)
