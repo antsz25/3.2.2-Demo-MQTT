@@ -111,9 +111,16 @@ while True:
 ```
 
 #Pruebas y resultados
+
 ##Conexiones del circuito
+
 ![Conexiones](https://github.com/antsz25/3.2.2-Demo-MQTT/blob/main/MQTTBroker/Pruebas/Conexiones.jpg)
+
 ##Prueba en consola de Thonny
+
 ![Pruebas_De_Consola](https://github.com/antsz25/3.2.2-Demo-MQTT/blob/main/MQTTBroker/Pruebas/PruebaConsola.png)
+
 ##Valores del MQTTBroker
+
 ![Valores](https://github.com/antsz25/3.2.2-Demo-MQTT/blob/main/MQTTBroker/Pruebas/Valores.jpg)
+
